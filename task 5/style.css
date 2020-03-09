@@ -1,0 +1,106 @@
+.mozay {
+    width: 350px; 
+    height: 200px; 
+    float: left;
+}
+.m1,.m2,.m3,.m4,.m5,.m6, .m7,.m8,.m9,.m10 {
+     width: 50px; height: 50px; float: left;
+}
+.m11,.m12,.m13, .m14, .m15,.m16,.m17, .m18 {
+    width: 50px; height: 50px; float: left;
+}
+.m19,.m20,.m21, .m22, .m23,.m24,.m25, .m26, .m27,.m28 {
+    width: 50px; height: 50px; float: left;
+}
+.m1_1 {
+    background: black;
+}
+.m2_2 {
+    background: rgb(37, 37, 37);
+}
+.m3_3 {
+    background: rgb(66, 66, 66);
+}
+.m4_4 {
+    background: rgb(157, 22, 184);
+}
+.m5_5 {
+    background: rgb(231, 169, 53);
+}
+.m6_6 {
+    background: rgb(255, 231, 13);
+}
+.m7_7 {
+    background: rgb(231, 56, 108);
+}
+.m8_8 {
+    background: rgb(20, 20, 20);
+}
+.m9_9 {
+    background: rgb(66, 61, 61);
+}
+.m10_10 {
+    background: rgb(105, 94, 94);
+}
+.m11_11 {
+    background: rgb(214, 48, 150);
+}
+.m12_12 {
+    background: rgb(230, 42, 83);
+}
+.m13_13 {
+    background: rgb(175, 15, 15);
+}
+.m14_14 {
+    background: rgb(221, 17, 34);
+}
+.m15_15 {
+    background: rgb(17, 63, 189);
+}
+.m16_16 {
+    background: rgb(78, 105, 177);
+}
+.m17_17 {
+    background: rgb(51, 110, 199);
+}
+.m18_18 {
+    background: rgb(65, 198, 231);
+}
+.m19_19 {
+    background: rgb(10, 126, 116);
+}
+.m20_20 {
+    background: rgb(34, 150, 92);
+}
+.m21_21 {
+    background: rgb(26, 170, 134);
+}
+.m22_22 {
+    background: rgb(67, 80, 122);
+}
+.m23_23 {
+    background: rgb(71, 94, 170);
+}
+.m24_24 {
+    background: rgb(113, 165, 235);
+}
+.m25_25 {
+    background: rgb(129, 190, 247);
+}
+.m26_26 {
+    background: rgb(53, 199, 126);
+}
+.m27_27 {
+    background: rgb(24, 212, 87);
+}
+.m28_28 {
+    background: rgb(16, 151, 61);
+}
+.my_page {
+    font-family: Georgia;
+    font-style: italic;
+    font-size: 13px;
+    color: white;
+    float: right;
+    width: 570px;
+}
